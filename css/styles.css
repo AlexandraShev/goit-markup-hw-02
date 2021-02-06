@@ -1,0 +1,32 @@
+/* цвет текста основной  #212121;
+*/
+/* цвет текста вторичный  #757575;*/
+/* акцент #2196F3;*/
+
+/*фон #FFFFFF*/
+/* вторичный фон #E5E5E5 */
+
+ul {
+  list-style: none;
+}
+
+body {
+  color: #757575;
+}
+.page {
+  background-color: #fff;
+}
+
+.logo {
+  color: black;
+}
+.logo-left {
+  color: #2196f3;
+}
+
+.site-nav {
+  color: #212121;
+}
+.contacts {
+  color: #757575;
+}
